@@ -1,5 +1,5 @@
 
-## <img src ="https://tenor.com/GGti.gif">
+## <img src="tenor.gif">
 ### Hi there, I'm Vaibhav Singh👋
 
 ## I'm studying for a Bachelor's degree in Information Technology at Mumbai University.
