@@ -1,11 +1,13 @@
+
+# <div class="tenor-gif-embed" data-postid="7750690" data-share-method="host" data-width="100%" data-aspect-ratio="0.94017094017094"><a href="https://tenor.com/view/the-office-steve-carell-exhibitionist-prank-finger-gif-7750690">The Office Steve Carell GIF</a> from <a href="https://tenor.com/search/theoffice-gifs">Theoffice GIFs</a></div><script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 ### Hi there, I'm Vaibhav Singh👋
 
 ## I'm studying for a Bachelor's degree in Information Technology at Mumbai University.
 
 - 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other 
+- 👯 I’m looking to collaborate with other developers
 - 🥅 2020 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to doodle
+- ⚡ “And I knew exactly what to do. But in a much more real sense, I had no idea what to do.”
 
 
 ### Connect with me:
@@ -30,10 +32,8 @@
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 
 <br />
-<br />
-
 ---
-![Statistics](https://github-readme-stats.vercel.app/api?username=VaibhavSingh29&show_icons=true&theme=tokyonight)
+![Statistics](https://github-readme-stats.vercel.app/api?username=VaibhavSingh29&count_private=true&show_icons=true&theme=tokyonight)
 
 
 
