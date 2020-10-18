@@ -1,5 +1,5 @@
 
-# <div class="tenor-gif-embed" data-postid="7750690" data-share-method="host" data-width="100%" data-aspect-ratio="0.94017094017094"><a href="https://tenor.com/view/the-office-steve-carell-exhibitionist-prank-finger-gif-7750690">The Office Steve Carell GIF</a> from <a href="https://tenor.com/search/theoffice-gifs">Theoffice GIFs</a></div><script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+## <img src ="https://tenor.com/GGti.gif">
 ### Hi there, I'm Vaibhav Singh👋
 
 ## I'm studying for a Bachelor's degree in Information Technology at Mumbai University.
@@ -33,7 +33,7 @@
 
 <br />
 ---
-![Statistics](https://github-readme-stats.vercel.app/api?username=VaibhavSingh29&count_private=true&show_icons=true&theme=tokyonight)
+![Statistics](https://github-readme-stats.vercel.app/api?username=VaibhavSingh29&show_icons=true&theme=tokyonight)
 
 
 
