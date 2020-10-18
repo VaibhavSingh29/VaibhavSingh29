@@ -40,6 +40,12 @@
 <br />
 
 ---
+<details>
+  <summary>:zap: GitHub Stats</summary>
+
+  <img align="left" alt="Vaibhav's GitHub Stats" src="https://github-readme-stats.VaibhavSingh29.vercel.app/api?username=VaibhavSingh29&show_icons=true&hide_border=true" />
+
+</details>
 
 
 [instagram]: https://instagram.com/vaibhav_029
