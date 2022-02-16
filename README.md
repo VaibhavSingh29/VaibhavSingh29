@@ -1,12 +1,12 @@
 
-## <img src="tenor.gif">
+<!-- ## <img src="tenor.gif"> -->
 ### Hi there, I'm Vaibhav Singh👋
 
 ## I'm studying for a Bachelor's degree in Information Technology at Mumbai University.
 
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other developers
-- 🥅 2020 Goals: Contribute more to Open Source projects
+- 🥅 2022 Goals: Contribute more to Open Source projects
 - ⚡ Everyday scenario: “And I knew exactly what to do. But in a much more real sense, I had no idea what to do.”
 
 
