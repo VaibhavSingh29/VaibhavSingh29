@@ -13,7 +13,7 @@
 ### Connect with me:
 
 
-[<img align="left" alt="Vaibhav | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="Vaibhav | Instagram" width="22px" src="https://simpleicons.vercel.app/instagram/fff" />][instagram]
 
 <br />
 
