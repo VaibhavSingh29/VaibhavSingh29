@@ -2,10 +2,10 @@
 <!-- ## <img src="tenor.gif"> -->
 ### Hi there, I'm Vaibhav Singh👋
 
-## I'm studying for a Bachelor's degree in Information Technology at Mumbai University.
+## I'm studying for a Master's degree in Computer Science and Engineering at Indian Institute of Technology, Bombay.
 
 - 🌱 I’m currently learning Linear Algebra, Probability Theory and C++.
-- 👯 I’m looking to collaborate with other developers.
+- 👯 I've studied for a Bachelor's degree in Information Technology at Mumbai University.
 - 🥅 2022 Goals: Learn more about the mathematical aspects of Machine Learning.
 - ⚡ Everyday scenario: “And I knew exactly what to do. But in a much more real sense, I had no idea what to do.”
 
