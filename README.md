@@ -4,18 +4,9 @@
 
 ## I'm studying for a Master's degree in Computer Science and Engineering at Indian Institute of Technology, Bombay.
 
-- 🌱 I’m currently learning Linear Algebra, Probability Theory and C++.
+- 🌱 I’m currently learning Bias, Explainability in ML systems, Foundations of Intelligent Agents.
 - 👯 I've studied for a Bachelor's degree in Information Technology at Mumbai University.
-- 🥅 2022 Goals: Learn more about the mathematical aspects of Machine Learning.
 - ⚡ Everyday scenario: “And I knew exactly what to do. But in a much more real sense, I had no idea what to do.”
-
-
-### Connect with me:
-
-
-[<img align="left" alt="Vaibhav | Instagram" width="40px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" />][instagram]
-
-<br />
 
 ### Languages:
 <img align = "left" alt = "C" width = "40px" src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" />
